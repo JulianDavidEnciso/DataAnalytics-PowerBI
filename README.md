@@ -1,4 +1,4 @@
-# DataAnalytics-PowerBI
+# PowerBI Dashboard - Doctoralia Case
 
 Technical Challenge for the Global Sales Ops Warrior :)
 
